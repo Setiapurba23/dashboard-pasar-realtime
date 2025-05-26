@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+venv/
+env/
+
+# Jupyter Notebook autosave
+*.checkpoint.ipynb
+
+# Data sementara
+data/raw/
+*.csv
+*.xlsx
+
+# Virtual environment
+*.egg-info/
+*.log
+*.tmp
+.DS_Store
