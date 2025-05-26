@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\LENOVO\OneDrive\Documents\tugas setia\smt 6\VDS\dashboard-pasar - realtime\env
+set VIRTUAL_ENV=C:\Tubes VDS\dashboard-pasar-realtime\env
 
 if not defined PROMPT set PROMPT=$P$G
 

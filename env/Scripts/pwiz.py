@@ -1,4 +1,4 @@
-#!C:\Users\LENOVO\OneDrive\Documents\tugas setia\smt 6\VDS\dashboard-pasar - realtime\env\Scripts\python.exe
+#!C:\Tubes VDS\dashboard-pasar-realtime\env\Scripts\python.exe
 
 import datetime
 import os
